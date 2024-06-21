@@ -1,6 +1,6 @@
 # Define number of parallel jobs
-$jobs = 500
-$delay = 3
+$jobs = 8
+$delay = 2
 
 # Define input and output directory
 $inputDir = "C:\Users\utilisateur\IEX_DEEP_HISTORICAL_DATA_PARSER\test_chunks"
